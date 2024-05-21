@@ -1,6 +1,13 @@
 # reference-genomes
 Reference genomes for popular model organisms from Ensembl.
 
+# File Format Guide
+FASTA (FAST-All): a text-based file representing nucleotide or protein sequences.
+
+GTF (Gene Transfer Format): a text-based file storing information on gene structure, annotations, and features.
+
+GFF3 (Generic Feature Format version 3): a text-based file storing 9 columns of data including gene IDs, source, and type.
+
 ## List of Reference Genomes
 The genome FASTA and GTF files listed below can be used for bioinformatics analyses.
 
