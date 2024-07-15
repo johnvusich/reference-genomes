@@ -8,7 +8,7 @@ GTF (Gene Transfer Format): a text-based file storing information on gene struct
 
 GFF3 (Generic Feature Format version 3): a text-based file storing 9 columns of data including gene IDs, source, and type.
 
-## List of Reference Genomes that can be used from common-data.
+## List of Reference Genomes that can be used from MSU HPCC common-data.
 The genome FASTA and GTF files listed below can be used for bioinformatics analyses.
 
 1. Human **GRCh38**
