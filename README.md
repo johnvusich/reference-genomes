@@ -33,7 +33,7 @@ GTF: /mnt/research/common-data/Bio/genomes/Ensembl_GRCm39_mm39/Mus_musculus.GRCm
 
 FASTA: /mnt/research/common-data/Bio/genomes/Ensembl_GRCz11/Danio_rerio.GRCz11.dna.primary_assembly.fa.gz
 
-GTF: /mnt/research/common-data/Bio/genomes/Ensembl_GRCz11/Danio_rerio.GRCz11.112.gtf.gz
+GTF: /mnt/research/common-data/Bio/genomes/Ensembl_GRCz11/Danio_rerio.GRCz11.115.gtf.gz
 
 4. Rat **mRatBN7.2**
 
@@ -67,7 +67,7 @@ GTF: https://ftp.ensembl.org/pub/release-114/gtf/mus_musculus/Mus_musculus.GRCm3
 
 FASTA: https://ftp.ensembl.org/pub/release-112/fasta/danio_rerio/dna/Danio_rerio.GRCz11.dna.primary_assembly.fa.gz
 
-GTF: https://ftp.ensembl.org/pub/release-112/gtf/danio_rerio/Danio_rerio.GRCz11.112.gtf.gz 
+GTF: https://ftp.ensembl.org/pub/release-115/gtf/danio_rerio/Danio_rerio.GRCz11.115.gtf.gz
 
 4. Rat
 
