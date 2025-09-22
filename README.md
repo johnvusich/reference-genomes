@@ -13,9 +13,9 @@ The genome FASTA and GTF files listed below can be used for bioinformatics analy
 
 1. Human **GRCh38**
 
-FASTA: /mnt/research/common-data/Bio/genomes/Ensembl_GRCh38/
+FASTA: /mnt/research/common-data/Bio/genomes/Ensembl_GRCh38/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
 
-GTF: /mnt/research/common-data/Bio/genomes/Ensembl_GRCh38/Homo_sapiens.GRCh38.112.gtf.gz/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
+GTF: /mnt/research/common-data/Bio/genomes/Ensembl_GRCh38/Homo_sapiens.GRCh38.115.gtf.gz
 
 2. Mouse **GRCm38**
 
@@ -55,7 +55,7 @@ The genome FASTA and GTF files listed below can be used for bioinformatics analy
 
 FASTA: https://ftp.ensembl.org/pub/release-112/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.primary_assembly.fa.gz
 
-GTF: https://ftp.ensembl.org/pub/release-112/gtf/homo_sapiens/Homo_sapiens.GRCh38.112.gtf.gz
+GTF: https://ftp.ensembl.org/pub/release-115/gtf/homo_sapiens/Homo_sapiens.GRCh38.115.gtf.gz
 
 2. Mouse
 
