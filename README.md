@@ -82,3 +82,9 @@ wget https://ftp.ensembl.org/pub/release-112/fasta/homo_sapiens/dna/Homo_sapiens
 
 wget https://ftp.ensembl.org/pub/release-112/gtf/homo_sapiens/Homo_sapiens.GRCh38.112.gtf.gz
 ```
+## Note on TOPLEVEL fasta files
+Reference genomes with the naming *dna.toplevel.fa.gz refer to the most complete set of contiguous DNA sequences in a genome assembly. This includes chromsomes, regions not assembled into chromosomes, and N padded haplotype/patch regions.
+
+In contrast, a *primary_assembly.fa.gz file contains the underlying genome sequence, without alternative sequence included. Primary assembly contains all toplevel sequence regions excluding haplotypes and patches. This file is best used for performing sequence similarity searches where patch and haplotype sequences would confuse analysis.
+
+In this repository, toplevel fasta references were only used if the *primary_assembly.fa.gz file is not available. If the *primary_assembly.fa.gz file is not present, that indicates that there are no haplotype/patch regions, and the 'toplevel' file is equivalent.
