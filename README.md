@@ -39,7 +39,7 @@ GTF: /mnt/research/common-data/Bio/genomes/Ensembl_GRCz11/Danio_rerio.GRCz11.112
 
 FASTA: /mnt/research/common-data/Bio/genomes/Ensembl_mRatBN7.2/Rattus_norvegicus.mRatBN7.2.dna.toplevel.fa.gz
 
-GTF: /mnt/research/common-data/Bio/genomes/Ensembl_mRatBN7.2/Rattus_norvegicus.mRatBN7.2.112.gtf.gz
+GTF: https://ftp.ensembl.org/pub/release-115/gtf/rattus_norvegicus/Rattus_norvegicus.GRCr8.115.gtf.gz
 
 5. Arabidopsis **TAIR10**
 
