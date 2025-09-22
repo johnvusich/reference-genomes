@@ -39,13 +39,13 @@ GTF: /mnt/research/common-data/Bio/genomes/Ensembl_GRCz11/Danio_rerio.GRCz11.112
 
 FASTA: /mnt/research/common-data/Bio/genomes/Ensembl_mRatBN7.2/Rattus_norvegicus.mRatBN7.2.dna.toplevel.fa.gz
 
-GTF: https://ftp.ensembl.org/pub/release-115/gtf/rattus_norvegicus/Rattus_norvegicus.GRCr8.115.gtf.gz
+GTF: /mnt/research/common-data/Bio/genomes/Ensembl_mRatBN7.2/Rattus_norvegicus.GRCr8.115.gtf.gz
 
 5. Arabidopsis **TAIR10**
 
 FASTA: /mnt/research/common-data/Bio/genomes/Ensembl_TAIR10/Arabidopsis_thaliana.TAIR10.dna.toplevel.fa.gz
 
-GFF3: /mnt/research/common-data/Bio/genomes/Ensembl_TAIR10/Arabidopsis_thaliana.TAIR10.59.gff3.gz
+GFF3: /mnt/research/common-data/Bio/genomes/Ensembl_TAIR10/Arabidopsis_thaliana.TAIR10.62.gff3.gz
 
 
 ## List of Reference Genomes that can be downloaded from Ensembl
@@ -68,6 +68,12 @@ GTF: https://ftp.ensembl.org/pub/release-114/gtf/mus_musculus/Mus_musculus.GRCm3
 FASTA: https://ftp.ensembl.org/pub/release-112/fasta/danio_rerio/dna/Danio_rerio.GRCz11.dna.primary_assembly.fa.gz
 
 GTF: https://ftp.ensembl.org/pub/release-112/gtf/danio_rerio/Danio_rerio.GRCz11.112.gtf.gz 
+
+4. Rat
+
+FASTA: https://ftp.ensembl.org/pub/release-115/fasta/rattus_norvegicus/dna/Rattus_norvegicus.GRCr8.dna.toplevel.fa.gz
+
+GTF: https://ftp.ensembl.org/pub/release-115/gtf/rattus_norvegicus/Rattus_norvegicus.GRCr8.115.gtf.gz
 
 4. Arabidopsis
 
